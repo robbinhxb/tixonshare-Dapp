@@ -1,4 +1,10 @@
-//Card Component
+//Card /版权所有（c）2017-2018 Tixoncash开发人员
+//版权所有（c）2018-2020 Tixonshare开发人员
+//版权所有（c）2021-2022 robbinhxb-Tixon
+//根据MIT软件许可分发，请参阅随附的
+
+/版权所有（c）2017-2018 Tixoncash开发人员//版权所有（c）2018-2020 Tixonshare开发人员//版权所有（c）2021-2022 robbinhxb-Tixon//根据MIT软件许可分发，请参阅随附的
+Component
 function Card(props) {
   return (
     <div className="col-md-4 col-lg-4 mt-2">
